@@ -1,8 +1,6 @@
 # 🐱 TOTO - Talking Cat Simulator
 
 
-\
-
 ### 🎮 A Fun Desktop Talking Cat Simulator Built Using Python, Pygame & pyttsx3
 
 ---
