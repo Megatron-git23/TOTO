@@ -3,22 +3,24 @@
 
 \
 
-### 🎮 A Fun Desktop Talking Cat Application Built Using Python & Pygame
+### 🎮 A Fun Desktop Talking Cat Simulator Built Using Python, Pygame & pyttsx3
 
 ---
 
 ## 📖 About The Project
 
-**TOTO** is a fun desktop application inspired by the popular **Talking Tom** game.
+**TOTO** is a simple and interactive desktop application inspired by the famous **Talking Tom** game.
 
-Users can type any message and watch **TOTO** repeat it using text-to-speech technology while displaying animated talking effects.
+The application allows users to type messages and make the animated cat repeat them using text-to-speech technology.
 
-This project demonstrates the integration of:
+The project demonstrates the integration of:
 
 * 🖥️ Graphical User Interface
 * 🗣️ Text-to-Speech
 * 🎭 Character Animation
 * ⚡ Multithreading
+
+Have fun interacting with your very own virtual talking cat!
 
 ---
 
@@ -26,7 +28,7 @@ This project demonstrates the integration of:
 
 ✅ Animated cat character
 
-✅ Realistic text-to-speech output
+✅ Real-time text-to-speech output
 
 ✅ Talking and idle animations
 
@@ -37,6 +39,8 @@ This project demonstrates the integration of:
 ✅ Lightweight and easy to run
 
 ✅ Multithreaded speech handling
+
+✅ Attractive desktop interface
 
 ---
 
@@ -94,7 +98,7 @@ pip install pygame
 pip install pyttsx3
 ```
 
-Or install all dependencies using:
+Or install all dependencies together:
 
 ```bash
 pip install -r requirements.txt
@@ -129,23 +133,24 @@ pip install -r requirements.txt
 
 ## 🎯 Application Preview
 
-| Action             | Result                     |
-| ------------------ | -------------------------- |
-| Press **SPACEBAR** | Opens text input           |
-| Enter Message      | Message is processed       |
-| Press **Enter**    | TOTO speaks the text       |
-| Speaking           | Talking animation is shown |
+| Action             | Result                         |
+| ------------------ | ------------------------------ |
+| Press **SPACEBAR** | Opens text interaction         |
+| Enter Message      | Text is processed              |
+| Press **Enter**    | TOTO repeats the message       |
+| TOTO Speaking      | Talking animation is displayed |
 
 ---
 
 ## 🔮 Future Enhancements
 
-* 😊 Multiple facial expressions
-* 🔊 Sound effects
-* 🎵 Background music
-* 🌙 Dark mode
-* 🤖 AI-powered conversations
-* 🐾 Additional animations
+* 🎤 Real-time Voice Recognition
+* 🔊 Sound Effects
+* 🎵 Background Music
+* 🌙 Dark Mode
+* 😊 Multiple Facial Expressions
+* 🤖 AI-Powered Conversations
+* 🐾 Additional Character Animations
 
 ---
 
@@ -182,6 +187,12 @@ If you like this project, please give it a **⭐ Star** on GitHub.
 
 ---
 
-### Made with ❤️ using Python and Pygame
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+### Made with ❤️ for Python Enthusiasts
 
 **Happy Coding! 🐱**
